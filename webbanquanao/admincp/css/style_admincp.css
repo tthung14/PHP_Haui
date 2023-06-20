@@ -1,0 +1,14 @@
+.clear{
+    clear: both;
+}
+
+h3.admincp_tile{
+    text-align: center;
+    font-size: 40px;
+    color: darkgoldenrod;
+}
+.wrapper{
+    border: 1px solid #000;
+    width: 90%;
+    margin: 0 auto;
+}

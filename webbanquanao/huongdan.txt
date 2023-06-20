@@ -1,0 +1,7 @@
+Truy cập phpmyadmin
+Tạo csdl shopnhom9
+Import file shopnhom9.sql
+
+Đăng nhập với quyền quản trị bằng tài khoản
+	Tài khoản: admin
+	Mật khẩu: 123
